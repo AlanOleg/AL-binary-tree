@@ -11,7 +11,7 @@ struct Node {
 };
 
 class BSTree {
-public:
+private:
     Node* root = nullptr;
 public:
     BSTree();
